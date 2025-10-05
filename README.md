@@ -47,7 +47,9 @@
 ## Валидаторы
 
 ### HTML: Без ошибок
+![alt text](image-2.png)
 ### CSS: Без ошибок
+![alt text](image-1.png)
 
 ## Брейкпоинты
 
